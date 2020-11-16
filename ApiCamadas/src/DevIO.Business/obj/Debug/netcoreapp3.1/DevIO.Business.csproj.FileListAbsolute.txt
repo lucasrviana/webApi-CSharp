@@ -1,0 +1,8 @@
+C:\Users\lucas.viana\source\repos\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.deps.json
+C:\Users\lucas.viana\source\repos\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Users\lucas.viana\source\repos\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\Users\lucas.viana\source\repos\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csprojAssemblyReference.cache
+C:\Users\lucas.viana\source\repos\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\lucas.viana\source\repos\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfo.cs
+C:\Users\lucas.viana\source\repos\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\Users\lucas.viana\source\repos\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.pdb
