@@ -1,30 +1,48 @@
-﻿using DevIO.Business.Interfaces;
-using DevIO.Business.Models;
-using System;
+﻿using System;
 using System.Threading.Tasks;
+using DevIO.Business.Interfaces;
+using DevIO.Business.Models;
+using DevIO.Business.Models.Validations;
 
 namespace DevIO.Business.Services
 {
-    public class ProdutoService  : BaseService, IProdutoService
+    public class ProdutoService : BaseService, IProdutoService
     {
-        public ProdutoService(INotificador notificador) : base(notificador)
+        private readonly IProduto _produtoRepository;
+        //private readonly IUser _user;
+
+        public ProdutoService(IProduto produtoRepository,
+                              INotificador notificador 
+                              ) : base(notificador)
         {
+            _produtoRepository = produtoRepository;
+            //_user = user;
         }
 
-        public Task Adicionar(Produto entity)
+        public async Task Adicionar(Produto produto)
         {
-            throw new NotImplementedException();
+            if (!ExecutarValidacao(new ProdutoValidation(), produto)) return;
+
+            //var user = _user.GetUserId();
+
+            await _produtoRepository.Adicionar(produto);
         }
 
-        public Task Atualizar(Produto entity)
+        public async Task Atualizar(Produto produto)
         {
-            throw new NotImplementedException();
+            if (!ExecutarValidacao(new ProdutoValidation(), produto)) return;
+
+            await _produtoRepository.Atualizar(produto);
         }
 
-
-        public Task Remover(Guid id)
+        public async Task Remover(Guid id)
         {
-            throw new NotImplementedException();
+            await _produtoRepository.Remover(id);
+        }
+
+        public void Dispose()
+        {
+            _produtoRepository?.Dispose();
         }
     }
 }

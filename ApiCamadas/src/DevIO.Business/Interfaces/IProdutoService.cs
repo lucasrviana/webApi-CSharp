@@ -4,16 +4,6 @@ using System.Threading.Tasks;
 
 namespace DevIO.Business.Interfaces
 {
-    public interface IFornecedorService
-    {
-        Task Adicionar(Fornecedor entity);
-
-        Task Atualizar(Fornecedor entity);
-
-        Task Atualizarendereco(Fornecedor entity);
-
-        Task Remover(Guid id);
-    }
 
     public interface IProdutoService
     {

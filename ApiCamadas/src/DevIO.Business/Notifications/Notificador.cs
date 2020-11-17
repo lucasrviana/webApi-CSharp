@@ -1,5 +1,6 @@
 ﻿using DevIO.Business.Interfaces;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace DevIO.Business.Notifications
 {
