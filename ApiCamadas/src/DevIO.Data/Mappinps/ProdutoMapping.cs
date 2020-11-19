@@ -21,6 +21,9 @@ namespace DevIO.Data.Mappinps
                .IsRequired()
                .HasColumnType("varchar(1000)");
 
+            builder.Property(p => p.Valor)
+                    .HasColumnType("decimal(18,2)");
+
             builder.ToTable("Produtos");
         }
     }

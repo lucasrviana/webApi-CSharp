@@ -29,11 +29,6 @@ namespace DevIO.Data.Context
 
             foreach (var relationship in modelBuilder.Model.GetEntityTypes().SelectMany(e => e.GetForeignKeys())) relationship.DeleteBehavior = DeleteBehavior.ClientSetNull;
 
-            modelBuilder.Entity<Produto>()
-                    .Property(p => p.Valor)
-                    .HasColumnType("decimal(18,2)");
-
-
             base.OnModelCreating(modelBuilder);
 
         }
