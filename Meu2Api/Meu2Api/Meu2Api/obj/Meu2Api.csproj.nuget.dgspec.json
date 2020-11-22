@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\WebApi\\Meu2Api\\Meu2Api\\Meu2Api\\Meu2Api.csproj": {}
+    "D:\\Projetos\\webApi-CSharp\\Meu2Api\\Meu2Api\\Meu2Api\\Meu2Api.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\WebApi\\Meu2Api\\Meu2Api\\Meu2Api\\Meu2Api.csproj": {
+    "D:\\Projetos\\webApi-CSharp\\Meu2Api\\Meu2Api\\Meu2Api\\Meu2Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\WebApi\\Meu2Api\\Meu2Api\\Meu2Api\\Meu2Api.csproj",
+        "projectUniqueName": "D:\\Projetos\\webApi-CSharp\\Meu2Api\\Meu2Api\\Meu2Api\\Meu2Api.csproj",
         "projectName": "Meu2Api",
-        "projectPath": "D:\\Projetos\\WebApi\\Meu2Api\\Meu2Api\\Meu2Api\\Meu2Api.csproj",
+        "projectPath": "D:\\Projetos\\webApi-CSharp\\Meu2Api\\Meu2Api\\Meu2Api\\Meu2Api.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\WebApi\\Meu2Api\\Meu2Api\\Meu2Api\\obj\\",
+        "outputPath": "D:\\Projetos\\webApi-CSharp\\Meu2Api\\Meu2Api\\Meu2Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

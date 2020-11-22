@@ -7,9 +7,7 @@ using Microsoft.Extensions.Logging;
 
 namespace Meu2Api.Controllers
 {
-    [ApiController]
-    [Route("[controller]")]
-    public class WeatherForecastController : ControllerBase
+        public class WeatherForecastController : MainController
     {
         private static readonly string[] Summaries = new[]
         {
@@ -49,5 +47,37 @@ namespace Meu2Api.Controllers
 
             return CreatedAtAction("post", teste);
         }
+    }
+    
+    [ApiController]
+    [Route("[controller]")]
+    public abstract class MainController : ControllerBase
+    {
+        protected ActionResult CustomResponse(object result = null)
+        {
+            if (OperacaoValida())
+                return Ok(new {
+                    sucess = true,
+                    data = result
+                }); 
+            else
+                return BadRequest(new
+                {
+                    sucess = true,
+                    error = ObterErros()
+                });
+        }
+
+
+        public bool OperacaoValida(object result = null)
+        {
+            return true;
+        }
+
+        protected string ObterErros()
+        {
+            return "";
+        }
+
     }
 }
