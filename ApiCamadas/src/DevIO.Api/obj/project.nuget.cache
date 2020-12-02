@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cC3E0f5ZHIVr+Niua/5QHPCebXcFfu4mNyp0jGQZGCOBfmB0FNsRsovLdvzSmx+J34drETjeMkl69ZgcCioAMA==",
+  "dgSpecHash": "MTOgi7L8qYK1kwjwaCEpdghIDjBU3n6cOkXfYMGL89O74FxR8hvhUOQaQzDDkNKO6gagnmmidA9E0S1oOO7Y1g==",
   "success": true,
   "projectFilePath": "C:\\Users\\lucas.viana\\source\\repos\\webApi-CSharp\\ApiCamadas\\src\\DevIO.Api\\DevIO.Api.csproj",
   "expectedPackageFiles": [
@@ -94,7 +94,9 @@
     "C:\\Users\\lucas.viana\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
     "C:\\Users\\lucas.viana\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\lucas.viana\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\lucas.viana\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\lucas.viana\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\lucas.viana\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\lucas.viana\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -5297,7 +5297,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lucas.viana\\.nuget\\packages\\": {}
+    "C:\\Users\\lucas.viana\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -5308,9 +5309,13 @@
       "packagesPath": "C:\\Users\\lucas.viana\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\lucas.viana\\source\\repos\\webApi-CSharp\\ApiCamadas\\src\\DevIO.Api\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
         "C:\\Users\\lucas.viana\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5321,6 +5326,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
             "C:\\Users\\lucas.viana\\source\\repos\\webApi-CSharp\\ApiCamadas\\src\\DevIO.Data\\DevIO.Data.csproj": {
               "projectPath": "C:\\Users\\lucas.viana\\source\\repos\\webApi-CSharp\\ApiCamadas\\src\\DevIO.Data\\DevIO.Data.csproj"
@@ -5336,6 +5342,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "AutoMapper.Extensions.microsoft.DependencyInjection": {
             "target": "Package",
@@ -5364,6 +5371,16 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -5372,7 +5389,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

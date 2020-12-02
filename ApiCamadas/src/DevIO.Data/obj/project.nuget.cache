@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Tc9kjQVaeu62yVcM4FIvcopq0aIJkUgI827HHWMMxp3AtmlusGqbRcMYzbUqAfD7SIR+PxL095B9BzdomsGQyw==",
+  "dgSpecHash": "zbxs7t4SrgHc+IRRQHmm+IIvpyQcxtqzEZzRxIzM3r62wY+YvB2YGuKwP7ZsbZq0hIOxZYONLHdRz5H9FriRBw==",
   "success": true,
   "projectFilePath": "C:\\Users\\lucas.viana\\source\\repos\\webApi-CSharp\\ApiCamadas\\src\\DevIO.Data\\DevIO.Data.csproj",
   "expectedPackageFiles": [
@@ -24,7 +24,9 @@
     "C:\\Users\\lucas.viana\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
     "C:\\Users\\lucas.viana\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
     "C:\\Users\\lucas.viana\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
-    "C:\\Users\\lucas.viana\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+    "C:\\Users\\lucas.viana\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\lucas.viana\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\lucas.viana\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }
