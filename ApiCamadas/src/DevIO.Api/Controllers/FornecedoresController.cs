@@ -44,12 +44,13 @@ namespace DevIO.Api.Controllers
         [HttpPost]
         public async Task<ActionResult<FornecedorViewModel>> AdcionarFornecedor(FornecedorViewModel fornecedorViewModel)
         {
-            if (!ModelState.IsValid) return UnprocessableEntity();
+            if (!ModelState.IsValid) return CustomResponse(ModelState);
 
             var fornecedor = _mapper.Map<Fornecedor>(fornecedorViewModel);
-            var result = await _fornecedorService.Adicionar(fornecedor);
-            if (!result) return BadRequest();
-            return Created("", fornecedorViewModel);
+            //var result = 
+            await _fornecedorService.Adicionar(fornecedorViewModel);
+            //if (!result) return BadRequest();
+            return CustomResponse(fornecedorViewModel)
         }
 
         [HttpPut("{id:guid}")]

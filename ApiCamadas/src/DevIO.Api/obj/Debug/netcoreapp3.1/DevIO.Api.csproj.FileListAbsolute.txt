@@ -1,6 +1,5 @@
 C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Api\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Api\bin\Debug\netcoreapp3.1\DevIO.Api.exe
 C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Api\bin\Debug\netcoreapp3.1\FluentValidation.dll
 C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
@@ -72,3 +71,4 @@ C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Api\bin\Deb
 C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Api\obj\Debug\netcoreapp3.1\DevIO.Api.genruntimeconfig.cache
 C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Api\obj\Debug\netcoreapp3.1\DevIO.Api.csproj.CoreCompileInputs.cache
 C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Api\obj\Debug\netcoreapp3.1\DevIO.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\DevIO.Api.styles.css
