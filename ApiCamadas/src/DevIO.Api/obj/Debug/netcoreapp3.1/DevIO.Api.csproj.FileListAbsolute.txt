@@ -1,6 +1,5 @@
 C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Api\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Api\bin\Debug\netcoreapp3.1\DevIO.Api.exe
 C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Api\bin\Debug\netcoreapp3.1\FluentValidation.dll
 C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
@@ -72,6 +71,7 @@ C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Api\bin\Deb
 C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Api\obj\Debug\netcoreapp3.1\DevIO.Api.genruntimeconfig.cache
 C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Api\obj\Debug\netcoreapp3.1\DevIO.Api.csproj.CoreCompileInputs.cache
 C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Api\obj\Debug\netcoreapp3.1\DevIO.Api.MvcApplicationPartsAssemblyInfo.cache
+<<<<<<< HEAD
 D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Api\bin\Debug\netcoreapp3.1\appsettings.json
 D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Api\bin\Debug\netcoreapp3.1\DevIO.Api.exe
@@ -143,3 +143,6 @@ D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Api\bin\Debug\netcoreapp3.1\runti
 D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
 D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+=======
+C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\DevIO.Api.styles.css
+>>>>>>> e9e391137ce38fed9c40186fa47fa442ff5df31e
