@@ -35,8 +35,6 @@ namespace DevIO.Api
                 app.UseDeveloperExceptionPage();
             }
 
-
-
             app.UseHttpsRedirection();
 
             app.UseRouting();

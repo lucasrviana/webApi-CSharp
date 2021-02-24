@@ -15,3 +15,11 @@ C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Business\ob
 C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.deps.json
 C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.dll
 C:\Users\lucas.viana\source\repos\webApi-CSharp\ApiCamadas\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.deps.json
+D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfoInputs.cache
+D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfo.cs
+D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csproj.CoreCompileInputs.cache
+D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.dll
+D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.pdb

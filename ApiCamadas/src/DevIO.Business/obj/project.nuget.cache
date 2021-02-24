@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5Mm0RsNKM+PCB2s+7ibMeb6lTMl+s7X4+NWedqdba9lEZo6LAqJRh4zMY+mhCrkctUzrObq/uh+b9FxvIwf+KA==",
+  "dgSpecHash": "UyQF4W6IZrfkyaI1ck2/ti+UXTIOb5rbrMMjofYJwnYoZgpb6o/4VmvwNOvH4c/QiRdqMjui/YkQhP4XvNXxcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas.viana\\source\\repos\\webApi-CSharp\\ApiCamadas\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "projectFilePath": "D:\\Projetos\\webApi-CSharp\\ApiCamadas\\src\\DevIO.Business\\DevIO.Business.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\lucas.viana\\.nuget\\packages\\fluentvalidation\\9.2.2\\fluentvalidation.9.2.2.nupkg.sha512"
+    "C:\\Users\\lucas\\.nuget\\packages\\fluentvalidation\\9.2.2\\fluentvalidation.9.2.2.nupkg.sha512"
   ],
   "logs": []
 }

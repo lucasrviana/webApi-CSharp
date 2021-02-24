@@ -15,7 +15,7 @@ namespace DevIO.Api.Configuration
         {
             
             services.AddDbContext<MeuDbContext>(options =>
-                options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
+                options.UseSqlServer(configuration.GetConnectionString("DefaultConnection"), b => b.MigrationsAssembly("DevIO.Api")));
 
             services.AddScoped<IProduto, ProdutoRepository>();
             services.AddScoped<IFornecedor, FornecedorRepository>();

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DevIO.Api</id>
+    <version>1.0.0</version>
+    <authors>DevIO.Api</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="DevIO.Data" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="AutoMapper.Extensions.microsoft.DependencyInjection" version="8.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Identity.Client" version="4.23.0" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/netcoreapp3.1/appsettings.Development.json" buildAction="Content" />
+      <files include="any/netcoreapp3.1/appsettings.json" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Api\bin\Debug\netcoreapp3.1\DevIO.Api.runtimeconfig.json" target="lib\netcoreapp3.1\DevIO.Api.runtimeconfig.json" />
+    <file src="D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Api\bin\Debug\netcoreapp3.1\DevIO.Api.dll" target="lib\netcoreapp3.1\DevIO.Api.dll" />
+    <file src="D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Api\appsettings.Development.json" target="content\appsettings.Development.json" />
+    <file src="D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Api\appsettings.Development.json" target="contentFiles\any\netcoreapp3.1\appsettings.Development.json" />
+    <file src="D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Api\appsettings.json" target="content\appsettings.json" />
+    <file src="D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Api\appsettings.json" target="contentFiles\any\netcoreapp3.1\appsettings.json" />
+  </files>
+</package>
