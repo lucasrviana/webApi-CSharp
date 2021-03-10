@@ -23,3 +23,4 @@ D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Business\obj\Debug\netcoreapp3.1\
 D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csproj.CoreCompileInputs.cache
 D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.dll
 D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.pdb
+D:\Projetos\webApi-CSharp\ApiCamadas\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csprojAssemblyReference.cache

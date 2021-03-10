@@ -1,20 +1,17 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "UyQF4W6IZrfkyaI1ck2/ti+UXTIOb5rbrMMjofYJwnYoZgpb6o/4VmvwNOvH4c/QiRdqMjui/YkQhP4XvNXxcg==",
-=======
-  "dgSpecHash": "3hgI7TpbtyWusNMR5rEoy57MYdrI7THbR5F19gtZw57BKAihUgEIm1B1++RoYLpQjXiprDUEDUXsoofLc4kjYQ==",
->>>>>>> e9e391137ce38fed9c40186fa47fa442ff5df31e
+  "dgSpecHash": "IdeiIUjLt5mTi5yecoSEPGoJxoVmcSvz1wweN1tWt4ZXyIKKmFbYWS2G+2pFKbttiUrMSRDn14bdVVGAA/0hiQ==",
   "success": true,
   "projectFilePath": "D:\\Projetos\\webApi-CSharp\\ApiCamadas\\src\\DevIO.Business\\DevIO.Business.csproj",
   "expectedPackageFiles": [
-<<<<<<< HEAD
     "C:\\Users\\lucas\\.nuget\\packages\\fluentvalidation\\9.2.2\\fluentvalidation.9.2.2.nupkg.sha512"
-=======
-    "C:\\Users\\lucas.viana\\.nuget\\packages\\fluentvalidation\\9.2.2\\fluentvalidation.9.2.2.nupkg.sha512",
-    "C:\\Users\\lucas.viana\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\lucas.viana\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
->>>>>>> e9e391137ce38fed9c40186fa47fa442ff5df31e
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache D:\\Projetos\\webApi-CSharp\\ApiCamadas\\src\\DevIO.Business\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
